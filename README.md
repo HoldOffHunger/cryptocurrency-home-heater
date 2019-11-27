@@ -110,6 +110,8 @@ You're going to need a mining pool, if you want a regular, reliable coinflow.  T
 
 * Create an account at litecoinpool.org.
 
+<img src="./image/litecoinpool-urls.jpg" width="600" alt="LiteCoin Pool URLs">
+
 * On the help page at litecoinpool.org, select the server closest to you and keep this information handy.
 
 ### Networking
