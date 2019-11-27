@@ -44,7 +44,7 @@ You will need the following parts :
 
 Asemble the AntMiner as follows :
 
-<img src="./image/antminer-power-cabling.jpg" width="600" alt="AntMiner Config Page">
+<img src="./image/antminer-power-cabling.jpg" width="600" alt="AntMiner Power Cabling">
 
 * Attach a power cable to each of the power cable slots on the antminer.
 
@@ -120,7 +120,7 @@ You're going to need a mining pool, if you want a regular, reliable coinflow.  T
 
 * For Pool 1, set the worker as "YourUserName.1", for Pool 2 as "YourUserName.2", and so on.
 
-<img src="./image/antminer-status.jpg" width="600" alt="AntMiner Config Page">
+<img src="./image/antminer-status.jpg" width="600" alt="AntMiner Status Page">
 
 * Click save and wait a minute for the miner to begin mining.  You'll know it's mining by looing at the Miner Status page and seeing the connections.
 
