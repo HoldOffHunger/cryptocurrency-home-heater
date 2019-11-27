@@ -158,6 +158,8 @@ More than that, wallets can provide other features, and probably the one most de
 
 * On the "Funding" page, search for litecoin, and select the Deposit option.
 
+<img src="./image/kraken-addresses.jpg" width="600" alt="Kraken Addresses">
+
 * Select "Generate New Address".  This will give you a new public key for litecoin deposits, it should begin with an L.
 
 * On the account page of litecoinpool.org, set payment address to the address you made with "Generate New Address".  This will cause the litecoinpool.org coins to go directly into your kraken account.
