@@ -48,6 +48,8 @@ Asemble the AntMiner as follows :
 
 * Attach a power cable to each of the power cable slots on the antminer.
 
+<img src="./image/antminer-ethernet-port.jpg" width="600" alt="AntMiner Ethernet Port">
+
 * Attach an ethernet cable between the antminer and a router with internet connectivity.
 
 * Attach the power cable to the antminer power supply and to an electrical outlet.
