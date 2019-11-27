@@ -84,6 +84,8 @@ Asemble the AntMiner as follows :
 
 * Attach the power and networking cables through the 1.25 inch hole bored through with the drill bit.
 
+<img src="./image/antminer-air-intake.jpg" width="600" alt="AntMiner Air Intake">
+
 * Use the stainless steel woven wire as a cover for the intake air.
 
 <img src="./image/antminer-exhaust.jpg" width="600" alt="AntMiner Exhaust">
