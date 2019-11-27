@@ -106,6 +106,8 @@ You're going to need a mining pool, if you want a regular, reliable coinflow.  T
 
 ### Configuration
 
+<img src="./image/antminer-config.jpg" width="400" alt="AntMiner Config Page">
+
 * In a browser, visit the URL you were given by the IP Reporter.
 
 * If you are prompted for a username and password, try "root" as both username and password.
