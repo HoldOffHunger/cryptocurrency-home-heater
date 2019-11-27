@@ -86,6 +86,8 @@ Asemble the AntMiner as follows :
 
 * Use the stainless steel woven wire as a cover for the intake air.
 
+<img src="./image/antminer-exhaust.jpg" width="600" alt="AntMiner Exhaust">
+
 * If you still have the metal grill from the third step up above, reattached it to the outside of the cooler using a drill.
 
 ## Setup Mining
