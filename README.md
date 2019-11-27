@@ -1,4 +1,4 @@
-# Home Heating System with a CryptoCurrency Miner
+# Home Heating System with a CryptoCurrency Miner and Silenced Crypto Case
 
 This guide will show you everything you need to know in order to leverage a cryptocurrency miner as an efficient, electrical home-heating source, including how to build a silencing, soundproof container for the miner.  Heat, comfort, quiet, and free digital currency, all right here.
 
