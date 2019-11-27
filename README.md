@@ -106,6 +106,8 @@ You're going to need a mining pool, if you want a regular, reliable coinflow.  T
 
 * Power on the antminer.
 
+<img src="./image/antminer-ip-report.jpg" width="600" alt="AntMiner IP Report">
+
 * On the antminer itself, near the networking cable ports, there should be a small button.  Press it, and a small light with light up.
 
 * On the computer running IP reporter, you should have a message indicating the miner's IP address.
