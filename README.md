@@ -1,6 +1,6 @@
 # Home Heating System with a CryptoCurrency Miner
 
-This guide will show you everything you need to know in order to leverage a cryptocurrency miner as an efficient, electrical home-heating source, including how to build a silencing container for the miner.  Heat, comfort, quiet, and free digital currency, all right here.
+This guide will show you everything you need to know in order to leverage a cryptocurrency miner as an efficient, electrical home-heating source, including how to build a silencing, soundproof container for the miner.  Heat, comfort, quiet, and free digital currency, all right here.
 
 <img src="./image/antminer-heater.jpg" width="600" alt="AntMiner Heater">
 
@@ -81,6 +81,8 @@ Asemble the AntMiner as follows :
 * Using a screw driver, remove the metal grill(s) from either or both ends of the antminer, and in their place, attach the 120mm AntMiner Fan Ducts.
 
 * Cut the duct silencer air-duct down to about 4-inches in width when in maximally compressed.  Attach the duct silencer air-duct to the AntMiner's exhaust fan (not the intake fan), and seal it using the duct clamp.
+
+<img src="./image/antminer-soundproofing.jpg" width="600" alt="AntMiner Soundproofing">
 
 * Attach the soundproofing panels using gorilla glue gel in the cooler.  Make sure to attach one below the lid, as well.  You will probably need to resize these, so have a pair of scissors available.  Let the glue set for a few hours before proceeding.
 
