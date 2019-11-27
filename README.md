@@ -72,6 +72,8 @@ Asemble the AntMiner as follows :
 
 * With the Hole-Saw and Drill, excavate two, relatively-centered holes at opposite sides of the Coleman cooler.  You should check to see that when placed inside, the antminer will be able to take intake air from one hole and send warm air out the exhaust.
 
+<img src="./image/antminer-cabling-port.jpg" width="600" alt="AntMiner Cabling Port">
+
 * In the back of the cooler, drill a small hole for power and ethernet cabling, using the 1.25 inch-diameter boring drill bit.
 
 * Using a screw driver, remove the metal grill(s) from either or both ends of the antminer, and in their place, attach the 120mm AntMiner Fan Ducts.
