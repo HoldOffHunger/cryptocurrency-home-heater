@@ -9,7 +9,8 @@ In this guide, I'll show you how to setup a cryptocurrency miner, how to harvest
 You could vary this setup as desired, but for the purposes of this guide, we'll be using :
 
 * Miner : Antminer L3+
-* CryptoCurrency: : Litecoin
+* CryptoCurrency : Litecoin
+* CryptoAlgorithm : Scrypt
 * Mining Pool : LiteCoinPool.org
 * Crypto Wallet/Trader : kraken.com
 
