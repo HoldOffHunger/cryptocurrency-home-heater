@@ -106,15 +106,17 @@ You're going to need a mining pool, if you want a regular, reliable coinflow.  T
 
 ### Configuration
 
-<img src="./image/antminer-config.jpg" width="400" alt="AntMiner Config Page">
-
 * In a browser, visit the URL you were given by the IP Reporter.
 
 * If you are prompted for a username and password, try "root" as both username and password.
 
+<img src="./image/antminer-config.jpg" width="600" alt="AntMiner Config Page">
+
 * On the "Miner Configuration" page, fill in three pool section forms.  For each set the Password as "1" and set the URL as the litecoinpool.org URL you found up above, which should look like "us.litecoinpool.org:3333".
 
 * For Pool 1, set the worker as "YourUserName.1", for Pool 2 as "YourUserName.2", and so on.
+
+<img src="./image/antminer-status.jpg" width="600" alt="AntMiner Config Page">
 
 * Click save and wait a minute for the miner to begin mining.  You'll know it's mining by looing at the Miner Status page and seeing the connections.
 
