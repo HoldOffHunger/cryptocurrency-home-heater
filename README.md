@@ -44,8 +44,12 @@ You will need the following parts :
 
 Asemble the AntMiner as follows :
 
+<img src="./image/antminer-power-cabling.jpg" width="600" alt="AntMiner Config Page">
+
 * Attach a power cable to each of the power cable slots on the antminer.
+
 * Attach an ethernet cable between the antminer and a router with internet connectivity.
+
 * Attach the power cable to the antminer power supply and to an electrical outlet.
 
 ## Noise-Case Assembly
