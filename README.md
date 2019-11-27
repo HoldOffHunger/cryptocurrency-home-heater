@@ -106,6 +106,8 @@ Asemble the AntMiner as follows :
 
 You're going to need a mining pool, if you want a regular, reliable coinflow.  These reward miners based on their contributions, often before the actual blocks granting cryptocurrency tokens have been unlocked.  Instead of waiting a year for one single coin, which may be worth hundreds, it's considered more useful to get 0.01 or so of a token per day.
 
+<img src="./image/litecoinpool.jpg" width="600" alt="LiteCoin Pool">
+
 * Create an account at litecoinpool.org.
 
 * On the help page at litecoinpool.org, select the server closest to you and keep this information handy.
