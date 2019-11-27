@@ -15,13 +15,13 @@ You could vary this setup as desired, but for the purposes of this guide, we'll 
 
 ## TOC
 
-1. Introduction(#introduction)
-2. TOC(#toc)
-3. Disclaimer(#disclaimer)
-4. Miner Assembly(#miner-assembly)
-5. Noise-Case assembly(#noise-case-assembly)
-6. Setup Mining(#setup-mining)
-7. Setup Cash Deposits(#setup-cash-deposits)
+1. [Introduction](#introduction)
+2. [TOC](#toc)
+3. [Disclaimer](#disclaimer)
+4. [Miner Assembly](#miner-assembly)
+5. [Noise-Case assembly](#noise-case-assembly)
+6. [Setup Mining](#setup-mining)
+7. [Setup Cash Deposits](#setup-cash-deposits)
 
 ## Disclaimer
 
