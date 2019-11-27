@@ -2,6 +2,8 @@
 
 This guide will show you everything you need to know in order to leverage a cryptocurrency miner as an efficient, electrical home-heating source, including how to build a silencing, soundproof container for the miner.  Heat, comfort, quiet, and free digital currency, all right here.
 
+Youtube Demo: https://www.youtube.com/watch?v=vJdMccolqYE
+
 <img src="./image/antminer-heater.jpg" width="600" alt="AntMiner Heater">
 
 ## Introduction
